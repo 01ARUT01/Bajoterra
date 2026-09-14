@@ -1,0 +1,220 @@
+{
+  "babosas": [
+    {
+      "id": 101,
+      "nombre": "Dark Furnace",
+      "origen": "Infierno",
+      "elemento": "sombra",
+      "habitat": "Cavernas de Oscuridad Total",
+      "descripcion": "La versión corrupta de Infierno: en lugar de fuego naranja, arde con un fuego negro y frío que ni la lava apaga."
+    },
+    {
+      "id": 102,
+      "nombre": "Aguafreak",
+      "origen": "Aquabeek",
+      "elemento": "sombra",
+      "habitat": "Aguas Negras Subterráneas",
+      "descripcion": "Babosa acuática corrompida que dispara chorros de agua envenenada capaces de frenar cualquier babosa aliada."
+    },
+    {
+      "id": 103,
+      "nombre": "Gimmstone",
+      "origen": "Carnero",
+      "elemento": "sombra",
+      "habitat": "Ruinas de Piedra Negra",
+      "descripcion": "El ariete malvado: golpea como una bestia de roca oscura y lanza pedazos de piedra con intención destructiva."
+    },
+    {
+      "id": 104,
+      "nombre": "Frost Fang",
+      "origen": "Congelada",
+      "elemento": "sombra",
+      "habitat": "Glaciares del Abismo",
+      "descripcion": "Un hielo que no derrite: congela a sus rivales hasta dejarlos atrapados en cristales negros para siempre."
+    },
+    {
+      "id": 105,
+      "nombre": "Terrarix",
+      "origen": "Diggrix",
+      "elemento": "sombra",
+      "habitat": "Terrenos Sembrados de Trampas",
+      "descripcion": "Cava túneles oscuros y ataca a sus enemigos desde el subsuelo sin darles oportunidad de reaccionar."
+    },
+    {
+      "id": 106,
+      "nombre": "Trasher",
+      "origen": "Trilladora",
+      "elemento": "sombra",
+      "habitat": "Forjas Sombrías",
+      "descripcion": "Un tiburón sierra corrompido que corta cualquier defensa enemiga con sus aletas dentadas y malditas."
+    },
+    {
+      "id": 107,
+      "nombre": "Hop Jack",
+      "origen": "Demoledora",
+      "elemento": "sombra",
+      "habitat": "Polvorines Oscuros",
+      "descripcion": "Explosiones de energía negra que destrozan todo a su paso: la versión más temida de la demoledora."
+    },
+    {
+      "id": 108,
+      "nombre": "SandMangler",
+      "origen": "Arenosa",
+      "elemento": "sombra",
+      "habitat": "Desiertos de Sombra",
+      "descripcion": "Tormentas de arena oscura que atrapan a sus víctimas en arenas movedizas sin escapar."
+    },
+    {
+      "id": 109,
+      "nombre": "Cryptogriff",
+      "origen": "Hipnogrif",
+      "elemento": "sombra",
+      "habitat": "Cavernas Hipnóticas",
+      "descripcion": "Sus ojos hechizan a quien lo mire: hipnotiza babosas y humanos para controlar sus voluntades."
+    },
+    {
+      "id": 110,
+      "nombre": "Goon Doc",
+      "origen": "Sanadora (Doc)",
+      "elemento": "sombra",
+      "habitat": "Santuario Corrupto",
+      "descripcion": "La siniestra versión de la sanadora: en vez de curar, corrompe a las babosas y las vuelve contra sus dueños."
+    },
+    {
+      "id": 111,
+      "nombre": "Amperling",
+      "origen": "Electroshock",
+      "elemento": "sombra",
+      "habitat": "Plantas Eléctricas Abandonadas",
+      "descripcion": "Rayos negros que sobrecargan y queman los circuitos de cualquier mecanismo o lanzadora rival."
+    },
+    {
+      "id": 112,
+      "nombre": "Tespesto",
+      "origen": "Tornado",
+      "elemento": "sombra",
+      "habitat": "Corrientes de Aire Oscuro",
+      "descripcion": "Crea tornados negros que arrasan cavernas y abren vórtices hacia las profundidades más oscuras."
+    },
+    {
+      "id": 113,
+      "nombre": "Jollyfist",
+      "origen": "Gelatinosa",
+      "elemento": "sombra",
+      "habitat": "Pantanos de Pecado",
+      "descripcion": "Lanza masa viscosa corrompida que pega a los enemigos al suelo y les roba la energía."
+    },
+    {
+      "id": 114,
+      "nombre": "Negablade",
+      "origen": "Nube de Humo",
+      "elemento": "sombra",
+      "habitat": "Neblinas Ciegas",
+      "descripcion": "Cortinas de humo oscuro que ciegan por completo al rival, impidiéndole ver los ataques que se acercan."
+    },
+    {
+      "id": 115,
+      "nombre": "Dark Urchin",
+      "origen": "Erizo",
+      "elemento": "sombra",
+      "habitat": "Laderas Espinosas",
+      "descripcion": "Dispara espinas negras en todas direcciones; sus púas drenan la energía de quien las recibe."
+    },
+    {
+      "id": 116,
+      "nombre": "Bubbalash",
+      "origen": "Bubbaleone",
+      "elemento": "sombra",
+      "habitat": "Ríos de Burbujas Oscuras",
+      "descripcion": "Burbujas negras irrompibles que atrapan a las babosas aliadas y las aplastan contra las paredes."
+    },
+    {
+      "id": 117,
+      "nombre": "Coalyd",
+      "origen": "Cristálida",
+      "elemento": "sombra",
+      "habitat": "Minas de Carbón Negro",
+      "descripcion": "Perfora la tierra como un taladro infernal y sepulta a sus enemigos en túneles sellados."
+    },
+    {
+      "id": 118,
+      "nombre": "Photomo",
+      "origen": "Fósforo",
+      "elemento": "sombra",
+      "habitat": "Oscuridad Resplandeciente",
+      "descripcion": "Una luz negra que ciega a sus rivales y aterroriza incluso al propio Clan de las Sombras."
+    },
+    {
+      "id": 119,
+      "nombre": "Vexlet",
+      "origen": "Hexlet",
+      "elemento": "sombra",
+      "habitat": "Corrientes de Mala Suerte",
+      "descripcion": "Trae un maleficio: todo tiro del rival falla o rebota mientras esta babosa está en campo."
+    },
+    {
+      "id": 120,
+      "nombre": "Denigmo",
+      "origen": "Enigma",
+      "elemento": "sombra",
+      "habitat": "Cavernas Inexplicables",
+      "descripcion": "La legendaria corrompida: altera la percepción y la memoria de quien la enfrenta a corto plazo."
+    },
+    {
+      "id": 121,
+      "nombre": "Neurotox",
+      "origen": "Neotox",
+      "elemento": "sombra",
+      "habitat": "Fábricas de Gas Tóxico",
+      "descripcion": "Niebla venenosa que petrifica a cualquier babosa que respire su gas; solo sus aliados de sombra resisten."
+    },
+    {
+      "id": 122,
+      "nombre": "Xbitter",
+      "origen": "Xmitter",
+      "elemento": "sombra",
+      "habitat": "Yacimientos Electromagnéticos",
+      "descripcion": "Un pulso electromagnético corrupto que apaga por mucho más tiempo los mecanismos rivales."
+    },
+    {
+      "id": 123,
+      "nombre": "Boomer",
+      "origen": "Granada",
+      "elemento": "sombra",
+      "habitat": "Arsenales Profundos",
+      "descripcion": "Su cola enciende una mecha negra: explota con una onda de choque oscura en un área amplia."
+    },
+    {
+      "id": 124,
+      "nombre": "Burspede",
+      "origen": "Blastipede",
+      "elemento": "sombra",
+      "habitat": "Túneles Trampa",
+      "descripcion": "Lanza minas oscuras que se adhieren al objetivo y detonan al mínimo contacto."
+    },
+    {
+      "id": 125,
+      "nombre": "Smugglet",
+      "origen": "Versátil",
+      "elemento": "sombra",
+      "habitat": "Espejismos Oscuros",
+      "descripcion": "Crea ilusiones casi perfectas que engañan a los lanzadores y hacen disparar a sus propias alianzas."
+    },
+    {
+      "id": 126,
+      "nombre": "Vamparo",
+      "origen": "Fandango",
+      "elemento": "sombra",
+      "habitat": "Cámaras de Energía Vampírica",
+      "descripcion": "En lugar de potenciar, absorbe la energía de las babosas aliadas cercanas para entregársela al Clan."
+    },
+    {
+      "id": 127,
+      "nombre": "GrindSliver",
+      "origen": "Magnetosa",
+      "elemento": "sombra",
+      "habitat": "Polos Magnéticos Corruptos",
+      "descripcion": "Fuerzas magnéticas negras que arrebatan las lanzadoras y desvían cualquier proyectil metálico."
+    }
+  ]
+}

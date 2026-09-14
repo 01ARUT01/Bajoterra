@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BajoTerra · Batalla de Babosas</title>
+  <link rel="stylesheet" href="css/game.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐌</text></svg>">
+</head>
+<body>
+  <div class="game-shell">
+
+    <div class="game-head">
+      <h1>🐌 BajoTerra · Batalla de Babosas</h1>
+      <p>Elige a tu personaje, arma un trío de babosas y enfréntate a las malvadas del Clan de las Sombras.</p>
+    </div>
+
+    <div id="loaderGame" class="loader"></div>
+
+    <div id="gameContent" style="display:none;">
+
+      <!-- Pantalla 1: Personaje -->
+      <section id="screenChar" class="box" style="display:none;">
+        <h2 class="panel-title">👤 Crea tu personaje</h2>
+        <div class="char-top">
+          <label for="charNombre">Nombre:</label>
+          <input type="text" id="charNombre" maxlength="18" placeholder="Viajero de Bajo Terra">
+        </div>
+
+        <div class="race-grid" id="raceGrid"></div>
+
+        <div class="bono-row" id="bonoRow"></div>
+
+        <div class="char-actions">
+          <button id="btnContinuar" class="btn-prim">Continuar → Elegir babosas</button>
+        </div>
+        <div id="charError" class="err-msg"></div>
+      </section>
+
+      <!-- Pantalla 2: Selección -->
+      <section id="screenTeam" class="box" style="display:none;">
+        <div class="battle-top">
+          <h2 class="panel-title">🎒 Elige tu equipo de 3 babosas</h2>
+          <button id="btnVolverChar" class="btn-sec">← Cambiar personaje</button>
+        </div>
+
+        <div id="teamCharInfo" class="team-char-info"></div>
+
+        <div class="filters">
+          <div class="filter-row" id="filterCat"></div>
+          <div class="filter-row" id="filterEl"></div>
+        </div>
+
+        <div class="cards-grid" id="cardsGrid"></div>
+
+        <div class="team-bar-wrap">
+          <h2 class="panel-title">Tu equipo</h2>
+          <div class="team-bar" id="teamBar"></div>
+          <div class="char-actions" style="justify-content:center;margin-top:0.4rem;">
+            <button id="btnIniciar" class="btn-prim" disabled>⚔️ ¡Iniciar batalla!</button>
+          </div>
+          <div id="teamError" class="err-msg" style="text-align:center;"></div>
+        </div>
+      </section>
+
+      <!-- Pantalla 3: Batalla -->
+      <section id="screenBattle" class="box" style="display:none;">
+        <div class="battle-top">
+          <h2 class="panel-title">⚔️ Arena de batalla</h2>
+          <button id="btnSalir" class="btn-sec">↩ Salir</button>
+        </div>
+        <div id="arena" class="arena"></div>
+        <div id="battleLog" class="battle-log"></div>
+      </section>
+
+    </div>
+  </div>
+
+  <!-- Modal ficha de babosa -->
+  <div id="modalOverlay" class="modal-overlay">
+    <div id="modalContent" class="modal-content"></div>
+  </div>
+
+  <!-- Overlay resultado -->
+  <div id="resultOverlay" class="result-overlay">
+    <div class="result-box">
+      <h2 id="resultado"></h2>
+      <p style="color:#b9aed6;margin:0.6rem 0 1.2rem;">Las antorchas de Bajo Terra recuerdan tu nombre...</p>
+      <button id="btnReiniciar" class="btn-prim">🔄 Jugar de nuevo</button>
+    </div>
+  </div>
+
+  <script src="js/game.js"></script>
+</body>
+</html>

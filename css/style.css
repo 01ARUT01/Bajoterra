@@ -291,6 +291,51 @@ body {
   margin: 2rem auto;
 }
 
+/* Zona de acceso al minijuego */
+.play-zone {
+  width: 100%;
+  max-width: 1300px;
+  margin: 0 auto 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  text-align: center;
+}
+
+.play-btn {
+  display: inline-block;
+  background: linear-gradient(135deg, #e04f8f 0%, #c23a75 100%);
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 800;
+  padding: 0.9rem 2.6rem;
+  border-radius: 60px;
+  text-decoration: none;
+  letter-spacing: 0.5px;
+  box-shadow: 0 6px 0 #8f2852, 0 16px 30px rgba(0, 0, 0, 0.25);
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  transition: 0.18s;
+}
+
+.play-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 9px 0 #8f2852, 0 22px 36px rgba(0, 0, 0, 0.3);
+  filter: brightness(1.08);
+}
+
+.play-btn:active {
+  transform: translateY(5px);
+  box-shadow: 0 2px 0 #8f2852;
+}
+
+.play-zone p {
+  color: #ffe6c9;
+  font-weight: 500;
+  font-size: 1rem;
+  opacity: 0.85;
+}
+
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
