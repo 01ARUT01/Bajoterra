@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.5">
+  <title>BajoTerra</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="pokedex-header">
+    <div>
+      <h1>
+        <span>🐱‍👤</span> BajoTerra
+      </h1>
+    </div>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Nombre o Nº de criatura" aria-label="Buscar criatura de Bajo Terra">
+      <button id="searchBtn">Explorar</button>
+    </div>
+  </header>
+
+  <div class="page-intro">
+    <p>Explora las criaturas y especies del mundo de Bajo Terra: un rincón de naturaleza, misterio y descubrimientos.</p>
+  </div>
+
+  <div id="statusContainer" class="status-msg" style="display: none;"></div>
+  <div id="loaderContainer" class="loader" style="display: none;"></div>
+
+  <div id="pokedexGrid" class="pokedex-grid"></div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,262 @@
+{
+  "babosas": {
+    "buenas": [
+      {
+        "id": 1,
+        "nombre": "Infierno",
+        "habitat": "Cavernas de Magma",
+        "descripcion": "La babosa de fuego principal, capaz de lanzar ráfagas de fuego, piroquinesis y transformarse en un fénix de fuego al alcanzar los 150 km/h.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Infierno.webp"
+      },
+      {
+        "id": 2,
+        "nombre": "Demoledora",
+        "habitat": "Cavernas de Rocas Ígneas",
+        "descripcion": "Genera explosiones masivas al impactar contra superficies sólidas, ideal para derribar defensas.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Demoledora.webp"
+      },
+      {
+        "id": 3,
+        "nombre": "Bengala",
+        "habitat": "Cavernas Secas y Áridas",
+        "descripcion": "Utilizada para iluminar zonas oscuras o cegar temporalmente a los enemigos con destellos de alta intensidad.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Bengala.webp"
+      },
+      {
+        "id": 4,
+        "nombre": "Granada",
+        "habitat": "Cavernas de Carbón y Azufre",
+        "descripcion": "Actúa como una bomba de tiempo viviente. Al impactar, empieza a parpadear antes de detonar en un área amplia.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Granada.webp"
+      },
+      {
+        "id": 5,
+        "nombre": "Fraguadora",
+        "habitat": "Caverna de la Fragua",
+        "descripcion": "Funde metales pesados escupiendo ríos de lava controlada. Muy útil para la herrería y la destrucción mecánica.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Franguadora.webp"
+      },
+      {
+        "id": 6,
+        "nombre": "Blastipede",
+        "habitat": "Cavernas Volcánicas Profundas",
+        "descripcion": "Lanza minas explosivas que se adhieren a los objetivos y estallan a voluntad cuando el lanzador da la señal.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Blastipede.webp"
+      },
+      {
+        "id": 7,
+        "nombre": "Lavalynx",
+        "habitat": "Cámaras de Magma Secundarias",
+        "descripcion": "Capaz de provocar pequeñas erupciones volcánicas y derretir el suelo para atrapar a los oponentes.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Lavalynx.webp"
+      },
+      {
+        "id": 8,
+        "nombre": "Aquabeek",
+        "habitat": "Caverna Resaca (Undertow Cavern)",
+        "descripcion": "Dispara potentes chorros de agua a alta presión y emite ondas sonoras submarinas para desorientar.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Elemental de Agua.webp"
+      },
+      {
+        "id": 9,
+        "nombre": "Bubbaleone",
+        "habitat": "Lagunas y Pozas de Marea Subterráneas",
+        "descripcion": "Se infla como un globo gigante protector capaz de rebotar ataques e impactos, o dispara ráfagas de burbujas.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Bubbaleone.webp"
+      },
+      {
+        "id": 10,
+        "nombre": "Gelatinosa",
+        "habitat": "Pantanos Subterráneos",
+        "descripcion": "Transforma superficies sólidas y proyectiles enemigos en una masa elástica, verde y sumamente pegajosa.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Gelatinosa.webp"
+      },
+      {
+        "id": 11,
+        "nombre": "Congelada",
+        "habitat": "Caverna Campo de Hielo (Frosting Cavern)",
+        "descripcion": "Congela todo a su alrededor mediante potentes ráfagas de ventiscas, creando hielo sólido al instante.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Congelada.webp"
+      },
+      {
+        "id": 12,
+        "nombre": "Lariat",
+        "habitat": "Cascadas y Ríos Subterráneos Rápidos",
+        "descripcion": "Escupe una cuerda de plasma elástica y ultra resistente que sirve para amarrar enemigos o balancearse.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Lariat.webp"
+      },
+      {
+        "id": 13,
+        "nombre": "Carnero",
+        "habitat": "Cavernas de Roca Sólida",
+        "descripcion": "Se transforma en un colosal ariete de piedra capaz de demoler estructuras y perforar muros de roca maciza.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Carnero.webp"
+      },
+      {
+        "id": 14,
+        "nombre": "Tejedora",
+        "habitat": "Caverna Arboria",
+        "descripcion": "Teje y dispara telarañas gigantes de alta resistencia para inmovilizar oponentes o salvar a aliados en caída.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Tejedora.webp"
+      },
+      {
+        "id": 15,
+        "nombre": "Arenosa",
+        "habitat": "Páramos Desérticos Subterráneos",
+        "descripcion": "Manipula la tierra para crear tormentas de arena cegadoras y pozos profundos de arena movediza.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Arenosa.webp"
+      },
+      {
+        "id": 16,
+        "nombre": "Diggrix",
+        "habitat": "Capas de Tierra Fértil",
+        "descripcion": "Excelente excavadora que puede abrir túneles subterráneos a gran velocidad para rutas de escape.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Diggrix.webp"
+      },
+      {
+        "id": 17,
+        "nombre": "Cristálida",
+        "habitat": "Caverna de los Cristales",
+        "descripcion": "Genera pináculos, armaduras y barreras defensivas hechas de cristal macizo e indestructible.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Cristalida.webp"
+      },
+      {
+        "id": 18,
+        "nombre": "Esquirla Helada",
+        "habitat": "Límites de la Caverna Helada",
+        "descripcion": "Lanza proyectiles afilados que combinan fragmentos de roca congelada y estalagmitas punzantes.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Esquirla Helada.webp"
+      },
+      {
+        "id": 19,
+        "nombre": "Trilladora",
+        "habitat": "Vetas de Mineral de Hierro",
+        "descripcion": "Posee mandíbulas mecánicas y bordes metálicos giratorios capaces de cortar el metal de las mecas enemigas.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Trilladora.webp"
+      },
+      {
+        "id": 20,
+        "nombre": "Polaro",
+        "habitat": "Zonas de Polos Magnéticos de Bajoterra",
+        "descripcion": "Utiliza fuerzas magnéticas innatas para generar una repulsión o atracción extrema sobre los rivales.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Polaro.webp"
+      },
+      {
+        "id": 21,
+        "nombre": "Torpedo",
+        "habitat": "Planicies Rocosas Subterráneas",
+        "descripcion": "Se desliza velozmente a ras de suelo actuando como un torpedo terrestre que derriba todo a su paso.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Torpedo.webp"
+      },
+      {
+        "id": 22,
+        "nombre": "Punzante",
+        "habitat": "Cavernas de Piedra Caliza y Estalagmitas",
+        "descripcion": "Su cuerpo se eriza con cientos de espinas rocosas que lanza como ráfagas de proyectiles balísticos.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Punzante.webp"
+      },
+      {
+        "id": 23,
+        "nombre": "Magnetosa",
+        "habitat": "Cavernas de Magnetita",
+        "descripcion": "Manipula los campos magnéticos del entorno para arrebatar las lanzadoras o desviar proyectiles metálicos.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Magnetosa.webp"
+      },
+      {
+        "id": 24,
+        "nombre": "Neotox",
+        "habitat": "Caverna de los Gases Tóxicos",
+        "descripcion": "Libera densas nubes de gas verde que paralizan o adormecen a los oponentes de forma temporal.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Neotox.webp"
+      },
+      {
+        "id": 25,
+        "nombre": "Sanadora (Doc)",
+        "habitat": "Santuario de la Caverna Serenidad",
+        "descripcion": "Especie ultra rara capaz de sanar heridas físicas, regenerar energía y purificar el agua oscura de las babosas malvadas.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Sanadora.webp"
+      },
+      {
+        "id": 26,
+        "nombre": "Electroshock",
+        "habitat": "Caverna de la Planta de Energía",
+        "descripcion": "Canaliza y dispara potentes descargas eléctricas, rayos y chispas de alto voltaje capaces de sobrecargar circuitos.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Electroshock.webp"
+      },
+      {
+        "id": 27,
+        "nombre": "Fandango",
+        "habitat": "Caverna Serenidad",
+        "descripcion": "Funciona como un amplificador místico que potencia la energía espiritual y la velocidad de las babosas aliadas cercanas.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Fandango.webp"
+      },
+      {
+        "id": 28,
+        "nombre": "Fósforo",
+        "habitat": "Cavernas de Cristales Fluorescentes",
+        "descripcion": "Emite luces de bengala cegadoras y ráfagas de destellos láser capaces de iluminar cuevas profundas.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Fósforo.webp"
+      },
+      {
+        "id": 29,
+        "nombre": "Enigma",
+        "habitat": "Cavernas Ocultas e Inexploradas",
+        "descripcion": "Una babosa legendaria cuyo disparo altera la percepción visual del enemigo y borra su memoria a corto plazo.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Enigma.webp"
+      },
+      {
+        "id": 30,
+        "nombre": "Nube de Humo",
+        "habitat": "Cavernas de Vapor",
+        "descripcion": "Genera cortinas densas de humo gris opaco para ocultar las maniobras de la banda o facilitar retiradas.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Nube de Humo.webp"
+      },
+      {
+        "id": 31,
+        "nombre": "Xmitter",
+        "habitat": "Cavernas de Tormentas Electromagnéticas",
+        "descripcion": "Produce un pulso electromagnético localizado (EMP) al impactar, apagando toda la tecnología y mecas rivales.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Xmitter.webp"
+      },
+      {
+        "id": 32,
+        "nombre": "Hipnogrif",
+        "habitat": "Cavernas Ilusorias",
+        "descripcion": "Utiliza sus ojos cargados de energía mental para hipnotizar y tomar control absoluto de las acciones del rival.",
+        "icono": "https://bajoterra.com",
+        "imagen": "img/Hipnogrifo.webp"
+      }
+    ]
+  }
+}
